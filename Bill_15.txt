@@ -1,0 +1,11 @@
+Order with id: 15
+
+Client: name: Chereji Iulia; id: 1; address: Com. Baciu, Aleea Iasomiei, nr.1, ap. 5, Jud. Cluj, Romania; phone: 0755228943; email: iuliachereji@gmail.com
+
+Date and time: 2021-04-20 12:43:54
+
+Total price: 300.0
+
+Products:
+
+Photo Album, price: 50.0, id: 9, quantity: 6, total price: 300.0
